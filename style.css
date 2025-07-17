@@ -1,3 +1,45 @@
 
+body {
+    font-family: arial, sans-serif;
+    background-color:lightgray;
+}
 
+.header {
+    text-align: center;
+    align-items: center;;
+}
 
+.bio-figure {
+    background-color: #FFF;
+   text-align: center;
+   margin: 0 auto;
+}
+
+.image-caption {
+    padding: 15px;
+    background-color: #FFF;
+}
+.timeline-title {
+    text-align: center;
+}
+
+.timeline {
+    max-width: 400px;
+    margin: 0 auto;  
+    padding-left: 20px;        
+}
+.timeline li {
+    margin-bottom: 10px;
+}
+.quote {
+    text-align: center;
+}
+
+.quote-author {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
